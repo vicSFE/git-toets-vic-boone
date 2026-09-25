@@ -3,9 +3,17 @@ Naam: Vic Boone
 
 OPDRACHT 3
 1.
+Commando: git log, git rev-parse --short 98efc9fc840ad3faedc6e6a5b61260069ca9a7f2
+Antwoord: 98efc9f
 2.
+Commando: git log -1 index.html, git rev-parse --short f321f149f5e6695d80c87a14390f2b39181b3768
+Antwoord: f321f14, Homepage naar versie 2
 3.
+Commando: git blame index.html
+Antwoord: f321f149
 4.
+Commando: git log --oneline --grep="Basiswebsite toegevoegd", git show 98efc9f
+Antwoord: 98efc9f Basiswebsite toegevoegd
 
 OPDRACHT 7
 a.
