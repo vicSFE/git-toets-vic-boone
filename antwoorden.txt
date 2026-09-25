@@ -17,5 +17,8 @@ Antwoord: 98efc9f Basiswebsite toegevoegd
 
 OPDRACHT 7
 a.
+De remote repo op github bevat al een commit die je niet lokaal hebt, en github weigerd dit dan.
 b.
+Git commit slaat wijzigingen lokaal op in git geschiedenis van je eigen repo, Git push stuurt die lokale commits vervolgens naar de remote repo
 c.
+Zo blift main altijd stabiel en werkend.
